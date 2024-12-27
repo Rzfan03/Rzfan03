@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FurniVibe](https://furni-vibe.vercel.app/)
 
-- 📃 My PortoFolio [rizfan.vercel.app](rizfan.vercel.app)
+- 📃 My PortoFolio [MyPortFolio](rizfan.vercel.app)
 
 - 💬 Ask me about **Html,Css,Js**
 
