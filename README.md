@@ -1,15 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rizfan</h1>
-<h3 align="center">Im 16,And frontEnd developer</h3>
+<h1 align="center">Hi 👋, I'm Rzfann</h1>
+<h3 align="center">Im And frontEnd developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenn2008&label=Profile%20views&color=0e75b6&style=flat" alt="zenn2008" /> </p>
 
-- 🔭 I’m currently working on [FurniVibe](https://furni-vibe.vercel.app/)
-
 - 📃 My PortoFolio [MyPortFolio](https://rizfan.vercel.app/)
-
-- 💬 Ask me about **Html,Css,Js**
-
-- ⚡ Fun fact **I always fail about love ;(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
