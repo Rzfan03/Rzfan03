@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rzfann</h1>
-<h3 align="center">Im And frontEnd developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenn2008&label=Profile%20views&color=0e75b6&style=flat" alt="zenn2008" /> </p>
 <p>Hai,aku Rizqy Fajrul Syabani</p>
