@@ -1,7 +1,7 @@
 
 <img src="screenshot_251021_121709.png" alt="bg">
 
-<h4 align="left">Hi 👋! My name is Rzfann and I'm a Frontend Developer</h4>
+<h3 align="left">Hi 👋! My name is Rzfann and I'm a Frontend Developer</h3>
 
 # Skill and Tools 👨‍💻
 
