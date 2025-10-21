@@ -1,5 +1,5 @@
 
-<img src="https://box.apeiros.xyz/public/everforest_walls/ultrakill/v1.png" alt="bg">
+<img src="screenshot_251021_121709.png" alt="bg">
 
 <p align="left">Hi 👋! My name is Rzfann and I'm a Frontend Developer</p>
 
