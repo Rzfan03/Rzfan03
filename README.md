@@ -1,5 +1,5 @@
 
-<img src="screenshot_251021_121709.png" alt="bg">
+<img src="omarchy.png" alt="bg">
 
 <h3 align="left">Hi 👋! My name is Rzfann and I'm a Frontend Developer</h3>
 
