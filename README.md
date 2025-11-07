@@ -1,7 +1,7 @@
 
 <img src="omarchy.png" alt="bg">
 
-<h3 align="left">Hi 👋! My name is Rzfann and I'm a Frontend Developer</h3>
+<h3 align="left">Hi 👋! My name is Rzfann and I'm a Junior Frontend Developer</h3>
 
 # Skill and Tools 👨‍💻
 
