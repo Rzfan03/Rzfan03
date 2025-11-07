@@ -9,7 +9,7 @@
 Languange  : Javascript C Python Bash<br>
 Framework : Astro TailwindCSS Bootstrap<br> 
 Tools : git nvim linux<br> 
-Gear : Arch linux Hyprland Kitty 
+Gear : Omarchy linux Hyprland Kitty 
 
 
 <img align="left" height="150" src="https://media.tenor.com/mWOA0c_KSgIAAAAi/chibi-anime.gif"  />
