@@ -7,7 +7,7 @@
 
 
 Languange  : Javascript C Python Bash<br>
-Framework : Astro TailwindCSS Bootstrap<br> 
+Framework : Astro.js TailwindCSS Bootstrap<br> 
 Tools : git nvim linux<br> 
 Gear : Omarchy linux Hyprland Kitty 
 
