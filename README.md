@@ -1,6 +1,13 @@
-<h1>Hi, I’m **Rzfan** 👋</h1>
+<h1>Hi, I'm Rzfan03</h1>
 
 <p>I’m a <code>Junior Frontend Developer</code> passionate about building user-friendly web applications.</p>
 <p>I love experimenting with<code> Linux </code>and exploring new tools and technologies.</p>  
-<sub>Always eager to learn, improve my skills, and contribute to interesting projects.<sub/>  
+Always eager to learn, improve my skills, and contribute to interesting projects.
+
+<p>Tech Stack</p>
+<p>FrontEnd : <code>Python, Bash, Javascript, PHP </code></p>
+<p>FrontEnd : <code>Astro.js, TailwindCSS, React.js, </code></p>
+<p>BackEnd : <code>Node.js, Express.js </code></p>
+<p>Tools : <code>Linux, NVIM, VSCode, Zed, Git, Docker </code></p>
+
 
