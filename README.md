@@ -5,7 +5,7 @@
 Always eager to learn, improve my skills, and contribute to interesting projects.
 
 <p>Tech Stack</p>
-<p>FrontEnd : <code>Python, Bash, Javascript, PHP </code></p>
+<p>Languange : <code>Python, Bash, Javascript, PHP </code></p>
 <p>FrontEnd : <code>Astro.js, TailwindCSS, React.js, </code></p>
 <p>BackEnd : <code>Node.js, Express.js </code></p>
 <p>Tools : <code>Linux, NVIM, VSCode, Zed, Git, Docker </code></p>
