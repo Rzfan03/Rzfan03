@@ -3,6 +3,7 @@
 <p>I’m a <code>Junior Frontend Developer</code> passionate about building user-friendly web applications.</p>
 <p>I love experimenting with<code> Linux </code>and exploring new tools and technologies.</p>  
 Always eager to learn, improve my skills, and contribute to interesting projects.
+<br/>
 
 <p>Tech Stack</p>
 <p>Languange : <code>Python, Bash, Javascript, PHP </code></p>
