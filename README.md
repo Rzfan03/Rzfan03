@@ -1,3 +1,5 @@
+<img src="bg.jpg">
+
 <h1>Hi, I'm Rzfan03🚀</h1>
 
 <p>I’m a <code>Junior Frontend Developer</code> passionate about building user-friendly web applications.</p>
