@@ -1,4 +1,4 @@
-<img src="bg.ppg">
+<img src="bg.png">
 
 
 <h1>Hi, I'm Rzfan03🚀</h1>
