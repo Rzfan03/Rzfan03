@@ -1,4 +1,4 @@
-<img src="bg.png">
+<img height="50px" src="bg.png">
 
 
 <h1>Hi, I'm Rzfan03🚀</h1>
