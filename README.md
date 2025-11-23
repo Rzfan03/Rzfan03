@@ -1,6 +1,6 @@
 
 <img height="512px" width="960px" src="bg.png">
-[![wakatime](https://wakatime.com/badge/user/fe975f77-b256-4a5d-9e62-9871d4ddc9fd.svg)](https://wakatime.com/@fe975f77-b256-4a5d-9e62-9871d4ddc9fd)
+<a href="https://wakatime.com/@fe975f77-b256-4a5d-9e62-9871d4ddc9fd"><img src="https://wakatime.com/badge/user/fe975f77-b256-4a5d-9e62-9871d4ddc9fd.svg" alt="Total time coded since Oct 14 2025" /></a>
 
 <h1>Hi, I'm Rzfan03🚀</h1>
 
