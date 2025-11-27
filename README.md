@@ -14,7 +14,7 @@
 
   <!-- <h6># dark mode recommended #</h6> -->
    <p align="left" style="margin-bottom: 20px">
-   <img src="https://lastfm-recently-played.vercel.app/api?user=Rzfan03&count=5">
+   <img src="https://lastfm-recently-played.vercel.app/api?user=Rzfan03&count=1">
 <!--  ![](https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&cover_image=true&theme=natemoo-re)-->
 
 <!-- ![](https://holopin.me/faris0520) -->
