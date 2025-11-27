@@ -5,23 +5,19 @@
   <a href="https://wakatime.com/@fe975f77-b256-4a5d-9e62-9871d4ddc9fd"><img src="https://wakatime.com/badge/user/fe975f77-b256-4a5d-9e62-9871d4ddc9fd.svg" alt="Total time coded since Oct 14 2025" /></a>
 </p>
 
- <p align="center"  style="margin-top:100px">
+ <p align="left"  style="margin-top:100px">
   <!--<a href="https://discord.com/users/695817459206324265" target="_blank">
   <img src="https://discord.c99.nl/widget/theme-4/695817459206324265.png" alt="parris" width="400">
   </a>-->
-  <a href="https://discord.com/users/695817459206324265"><img src="https://lanyard.cnrad.dev/api/695817459206324265?theme=dark&showDisplayName=true&hideActivity=true" /></a>
+  <a href="https://discord.com/users/1241671009820741632"><img src="https://lanyard.cnrad.dev/api/695817459206324265?theme=dark&showDisplayName=true&hideActivity=true" /></a>
 </p>
 
   <!-- <h6># dark mode recommended #</h6> -->
-   <p align="center" style="margin-bottom: 20px">
-   <img src="https://lastfm-recently-played.vercel.app/api?user=Faris0520&count=3">
+   <p align="left" style="margin-bottom: 20px">
+   <img src="https://lastfm-recently-played.vercel.app/api?user=Rzfan03&count=5">
 <!--  ![](https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&cover_image=true&theme=natemoo-re)-->
 
 <!-- ![](https://holopin.me/faris0520) -->
-</p>
- <p align="center" style="margin-bottom: 20px">
-   <img src="https://holopin.me/faris0520" width="80%">
- </p>
 
 
 <!-- <img height="512px" width="960px" src="bg.png"> -->
