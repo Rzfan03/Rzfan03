@@ -1,9 +1,6 @@
  <p align="left" style="margin-bottom:100px">
   <a href="http://github.com/Rzfan03" target="_blank">
-  <img src="http://komarev.com/ghpvc/?username=Faris0520&label=Pengunjung" alt="parris"> 
-  </a>
-  <a href="https://wakatime.com/@2480fa13-8879-4855-99ec-1923fd9e96e6" target="_blank">
-  <img src="https://wakatime.com/badge/user/2480fa13-8879-4855-99ec-1923fd9e96e6.svg" alt="parris">
+  <img src="http://komarev.com/ghpvc/?username=Rzfan03&label=Pengunjung" alt="parris"> 
   </a>
 </p>
 
