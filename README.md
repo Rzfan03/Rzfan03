@@ -2,12 +2,13 @@
   <a href="http://github.com/Rzfan03" target="_blank">
   <img src="http://komarev.com/ghpvc/?username=Rzfan03&label=Pengunjung" alt="parris"> 
   </a>
+  <a href="https://wakatime.com/@fe975f77-b256-4a5d-9e62-9871d4ddc9fd"><img src="https://wakatime.com/badge/user/fe975f77-b256-4a5d-9e62-9871d4ddc9fd.svg" alt="Total time coded since Oct 14 2025" /></a>
 </p>
 
 
 
 <!-- <img height="512px" width="960px" src="bg.png"> -->
-<a href="https://wakatime.com/@fe975f77-b256-4a5d-9e62-9871d4ddc9fd"><img src="https://wakatime.com/badge/user/fe975f77-b256-4a5d-9e62-9871d4ddc9fd.svg" alt="Total time coded since Oct 14 2025" /></a>
+
 
 <h1>Hi, I'm Rzfan03🚀</h1>
 
