@@ -3,10 +3,10 @@
 
 
   [![](http://komarev.com/ghpvc/?username=Rzfan03&label=Pengunjung)](http://github.com/Rzfan03)
-[![wakatime](https://wakatime.com/badge/user/fe975f77-b256-4a5d-9e62-9871d4ddc9fd.svg)](https://wakatime.com/@fe975f77-b256-4a5d-9e62-9871d4ddc9fd)
+  [![wakatime](https://wakatime.com/badge/user/fe975f77-b256-4a5d-9e62-9871d4ddc9fd.svg)](https://wakatime.com/@fe975f77-b256-4a5d-9e62-9871d4ddc9fd)
 
 ###
-
+# Tech Stack 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -25,7 +25,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/31qxv5ijbrzhypvxxjxttnc4ys2y">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qxv5ijbrzhypvxxjxttnc4ys2y&count=5&unique=true" alt="Spotify recently played"  />
   </a>
