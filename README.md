@@ -1,21 +1,9 @@
-<h2 align="left">Hi, i'm Rizqy Fajrul Syabani!</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+I'm+Rizqy+Fajrul+Syabani;I'm+a+Frontend+Developer;Welcome+to+my+github!)](https://git.io/typing-svg)
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rzfan03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rzfan03&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=default&hide_border=false&custom_title=Nigga" height="150" alt="languages graph"  />
-</div>
 
-###
-
-<img align="right" height="150" src="https://tenor.com/jsc9yAj80No.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Rzfan03/Rzfan03/output/snake.svg" alt="Snake animation" />
+  [![](http://komarev.com/ghpvc/?username=Rzfan03&label=Pengunjung)](http://github.com/Rzfan03)
+[![wakatime](https://wakatime.com/badge/user/fe975f77-b256-4a5d-9e62-9871d4ddc9fd.svg)](https://wakatime.com/@fe975f77-b256-4a5d-9e62-9871d4ddc9fd)
 
 ###
 
@@ -45,9 +33,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:Rzfan03?theme=minecraft&padding=7&scale=0.6&align=center&pixelated=1&darkmode=auto"  />
-</div>
 
 ###
 
