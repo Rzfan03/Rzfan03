@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=40&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+I'm+Rizqy+Fajrul+Syabani;I'm+a+Frontend+Developer;Welcome+to+my+github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=32&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+I'm+Rizqy+Fajrul+Syabani;I'm+a+Frontend+Developer;Welcome+to+my+github!)](https://git.io/typing-svg)
 
 
 
