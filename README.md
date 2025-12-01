@@ -47,7 +47,3 @@
 </div>
 
 
-
-
-![Metrics](https://metrics.lecoq.io/Rzfan03?template=classic&base.header=0&people=1&isocalendar=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FJakarta&config.twemoji=true&config.octicon=true)
-
