@@ -1,5 +1,4 @@
  <p align="left" style="margin-bottom:100px">
-  ![Metrics](https://metrics.lecoq.io/Rzfan03?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FJakarta)
   <a href="http://github.com/Rzfan03" target="_blank">
   <img src="http://komarev.com/ghpvc/?username=Rzfan03&label=Pengunjung" alt="parris"> 
   </a>
