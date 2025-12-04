@@ -2,6 +2,7 @@
   [![wakatime](https://wakatime.com/badge/user/fe975f77-b256-4a5d-9e62-9871d4ddc9fd.svg)](https://wakatime.com/@fe975f77-b256-4a5d-9e62-9871d4ddc9fd)
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=32&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+I'm+Rizqy+Fajrul+Syabani;I'm+a+Frontend+Developer;Welcome+to+my+github!)](https://git.io/typing-svg)
+
 I'm a Junior Frontend Developer passionate about creating modern, responsive, and user-focused web interfaces. I enjoy turning ideas into clean, functional websites while continuously improving my understanding of UI/UX, JavaScript, and frontend best practices.
 <br>
 
