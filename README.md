@@ -11,7 +11,11 @@ I’m currently expanding my knowledge in Astro, React, and advanced JavaScript 
 
 
 <br/>
-<code> 8979295e2c65a7d9ff45a19f504cc22b884d219e <code/>
+<!--START_SECTION:waka-->
+
+```txt
+
+<!--END_SECTION:waka-->
 
 
 
