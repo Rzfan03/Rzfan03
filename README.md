@@ -15,5 +15,7 @@ I’m currently expanding my knowledge in Astro, React, and advanced JavaScript 
 
 ```txt
 
+```
+<!--END_SECTION:waka-->
 
 
