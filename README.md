@@ -10,11 +10,9 @@ I’m currently expanding my knowledge in Astro, React, and advanced JavaScript 
 
 
 
-<br/>
 <!--START_SECTION:waka-->
 
 ```txt
-
 ```
 <!--END_SECTION:waka-->
 
