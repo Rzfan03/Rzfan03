@@ -1,4 +1,4 @@
-### Hi, I'm Rizqy Fajrul Syabani. 
+# Hi, I'm Rizqy Fajrul Syabani. 
 I'm a Linux Enthusiast!
 
 yupp that's it :0
