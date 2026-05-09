@@ -9,7 +9,7 @@ const MyPortofolio = "https://rzfan03.netlify.app/"
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -88,7 +88,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rzfan03/Rzfan03/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2026 08:50:06 UTC
+ Last Updated on 09/05/2026 20:11:13 UTC
 <!--END_SECTION:waka-->
 
 
