@@ -11,7 +11,7 @@ const MyPortofolio = "https://rzfan03.netlify.app/"
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2025 - To: 18 May 2026
+From: 13 October 2025 - To: 19 May 2026
 
 Total Time: 304 hrs 15 mins
 
