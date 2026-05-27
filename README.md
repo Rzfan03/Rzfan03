@@ -11,19 +11,19 @@ const MyPortofolio = "https://rzfan03.netlify.app/"
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2025 - To: 25 May 2026
+From: 13 October 2025 - To: 26 May 2026
 
-Total Time: 311 hrs
+Total Time: 312 hrs 9 mins
 
-TypeScript       89 hrs 31 mins        >>>>>>>------------------   28.43 %
-JavaScript       50 hrs 49 mins        >>>>---------------------   16.14 %
-HTML             44 hrs 17 mins        >>>>---------------------   14.06 %
-Astro            43 hrs 5 mins         >>>----------------------   13.69 %
-Python           13 hrs 12 mins        >------------------------   04.19 %
-CSS              10 hrs 58 mins        >------------------------   03.49 %
-Svelte           6 hrs 30 mins         >------------------------   02.07 %
-Go               5 hrs 57 mins         -------------------------   01.89 %
-Markdown         5 hrs 2 mins          -------------------------   01.60 %
+TypeScript       89 hrs 33 mins        >>>>>>>------------------   28.34 %
+JavaScript       50 hrs 49 mins        >>>>---------------------   16.08 %
+HTML             44 hrs 17 mins        >>>>---------------------   14.01 %
+Astro            43 hrs 5 mins         >>>----------------------   13.64 %
+Python           13 hrs 27 mins        >------------------------   04.26 %
+CSS              10 hrs 58 mins        >------------------------   03.47 %
+Go               6 hrs 38 mins         >------------------------   02.10 %
+Svelte           6 hrs 30 mins         >------------------------   02.06 %
+Markdown         5 hrs 12 mins         -------------------------   01.65 %
 ```
 
 <!--END_SECTION:waka-->
