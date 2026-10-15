@@ -1,12 +1,10 @@
-# Hi,I'm Rzfan03
-I'm a Linux Enthusiast!
+#### frontend web developer - 3+ years - Linux Enthusiast!
 
-yupp that's it :0
+i like to learn new stuff
 
-```tsx
-const MyBlog = "https://blog-rzfan03.netlify.app/"
-const MyPortofolio = "https://rzfan03.netlify.app/"
+```go
+type info struct {
+Porto "https://blog-rzfan.vercel.app/"
+Blog  "https://rzfan03.netlify.app/"
+}
 ```
-
-
-
