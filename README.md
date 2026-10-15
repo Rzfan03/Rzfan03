@@ -1,4 +1,4 @@
-#### frontend web developer - 3+ years - Linux Enthusiast!
+#### Frontend web developer - 3+ Years - Linux Enthusiast!
 
 i like to learn new stuff
 
