@@ -1,10 +1,5 @@
-#### Frontend web developer - 3+ Years - Linux Enthusiast!
+### Frontend Web Developer | Linux Enthusiast
 
-i like to learn new stuff
+I love learning new things and exploring Linux.
 
-```go
-type info struct {
-Porto "https://blog-rzfan.vercel.app/"
-Blog  "https://rzfan03.netlify.app/"
-}
-```
+<img width="200" height="200" src="https://media.tenor.com/XCfSm9fiBNsAAAAi/hi-cat.gif" alt="Waving cat" />
