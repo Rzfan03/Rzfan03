@@ -11,4 +11,4 @@ I love learning new things and exploring Linux.
   <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/svg/tux.dark.svg">
   <img alt="tux" src="https://ascii.rest/svg/tux.svg" width="120">
 </picture> -->
-[![GitHubCard](https://githubcard.com/Rzfan03.svg)](https://githubcard.com/Rzfan03/card?utm_source=github&utm_medium=readme)
+
